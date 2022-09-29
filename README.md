@@ -1,4 +1,7 @@
 # Forecast-Walmart-s-stock-with-ARMA-model
 
+![Walmart](https://user-images.githubusercontent.com/104760218/193003075-076c9479-c1ac-4dfd-8337-cac095e5f3bd.jpg)
+
+
 Walmart is a multinational company engaged in food retail sales. 
 In this analysis we use the Walmart's stocks price from 10/2000 to 09/2022. Datas were extrated from the site www.investing.com
