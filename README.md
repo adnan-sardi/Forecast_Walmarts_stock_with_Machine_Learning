@@ -1,4 +1,4 @@
-# Forecast-Walmart-s-stock-with-ARMA-model
+# Forecast Walmart's stock with Machine Learning
 
 ![Walmart](https://user-images.githubusercontent.com/104760218/193003075-076c9479-c1ac-4dfd-8337-cac095e5f3bd.jpg)
 
