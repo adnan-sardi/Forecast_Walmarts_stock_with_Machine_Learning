@@ -1,4 +1,4 @@
-# Forecast Walmart's stock with Machine Learning
+# Forecast Walmart's stock with Neural Network
 
 ![Walmart](https://user-images.githubusercontent.com/104760218/193003075-076c9479-c1ac-4dfd-8337-cac095e5f3bd.jpg)
 
